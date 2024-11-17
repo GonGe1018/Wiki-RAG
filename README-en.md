@@ -22,7 +22,7 @@ This project crawls wiki data, summarizes it using OpenAI's GPT, and builds a RA
    - Create FAISS indexes from the crawled and summarized data.
 
 3. **Question-Answer System**:
-   - Load the FAISS index to answer user queries using `gpt-4-mini` and provide the source of the answer.
+   - Load the FAISS index to answer user queries using `gpt-4o-mini` and provide the source of the answer.
 
 ---
 
