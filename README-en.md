@@ -10,6 +10,8 @@ This project crawls wiki data, summarizes it using OpenAI's GPT, and builds a RA
 
 ***Currently, only Namuwiki crawling is supported.***
 
+[My Presentation at School](./Wiki-RAG%20PT.pdf)
+
 ---
 
 ## 📋 Features
